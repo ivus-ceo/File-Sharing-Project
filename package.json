@@ -1,5 +1,5 @@
 {
-	"name": "file-sharing-project",
+	"name": "secure-file-sharing",
 	"version": "1.0.0",
 	"description": "Website that provides sharing your files with or without password.",
 	"main": "index.js",
